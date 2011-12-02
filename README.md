@@ -3,7 +3,7 @@ md5brute
 
 what is this ?
 --------------
-MD5 bruteforce sample program? (CODEGATE2011 CTF Final - Geol or Yut Prob4)
+md5brute is MD5 bruteforce sampleprogram using OpenSSL library and OpenMP. (CODEGATE2011 CTF Final - Geol or Yut Prob4)
 
 prerequire
 ----------
