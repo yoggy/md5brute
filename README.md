@@ -7,11 +7,11 @@ md5brute is MD5 bruteforce sampleprogram using OpenSSL library and OpenMP. (CODE
 
 prerequire
 ----------
-  $ sudo apt-get install cmake libssl-dev boost1.40-all-dev
+    $ sudo apt-get install cmake libssl-dev boost1.40-all-dev
 
 how to comple
 -------------
-  $ cmake .
-  $ make
-  $ ./md5brute
+    $ cmake .
+    $ make
+    $ ./md5brute
 
